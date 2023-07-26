@@ -2,13 +2,13 @@
  
 ## To Complete This Assignment: 
 
-1. Review the following layout featured on... https://getbootstrap.com/
+1.) Review the following layout featured on... https://getbootstrap.com/
 
 - Selected This Template: https://getbootstrap.com/docs/4.0/examples/product/
 
 <img width="600" src="https://github.com/matthewantonis-georgiancollege/CSS_COMP1054/assets/122380719/1d304ad5-601a-4a5d-89fd-a62272fd250f">
 
-2. Using either Flexbox or Grid (or a combination of both), recreate the featured layout without Bootstrap. To do so, you will need to create both the HTML and CSS files. 
+2.) Using either Flexbox or Grid (or a combination of both), recreate the featured layout without Bootstrap. To do so, you will need to create both the HTML and CSS files. 
 
 Notes: 
 - Making the website responsive was not necessary 
